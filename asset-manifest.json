@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livewheathercity/static/css/main.07d74fce.css",
+    "main.js": "/livewheathercity/static/js/main.b15d279e.js",
+    "static/js/787.c6f76f13.chunk.js": "/livewheathercity/static/js/787.c6f76f13.chunk.js",
+    "index.html": "/livewheathercity/index.html",
+    "main.07d74fce.css.map": "/livewheathercity/static/css/main.07d74fce.css.map",
+    "main.b15d279e.js.map": "/livewheathercity/static/js/main.b15d279e.js.map",
+    "787.c6f76f13.chunk.js.map": "/livewheathercity/static/js/787.c6f76f13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d74fce.css",
+    "static/js/main.b15d279e.js"
+  ]
+}
